@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+"name": "Riyusso - Website Dial",
+"version": "1.2",
+
+"description": "Adds 5 websites to your New Tab.",
+"chrome_url_overrides": {
+    "newtab": "index.html"
+},
+"icons": { "48": "icon.png"
+},
+"chrome_settings_overrides": {
+    "homepage": "index.html"
+}
+}
