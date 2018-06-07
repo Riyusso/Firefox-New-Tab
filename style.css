@@ -6,6 +6,10 @@
     font-family: "Nunito";
 }
 
+a {
+    outline:none !important;
+}
+
 .step {
     position: relative;
     left: 5%;
