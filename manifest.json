@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
 "name": "Homepage",
-"version": "1.4.2",
+"version": "3.0",
 
 "description": "Adds 5 websites to your New Tab.",
 "chrome_url_overrides": {
